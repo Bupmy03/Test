@@ -1,4 +1,3 @@
-123 update
 Commit test
 456
 777
@@ -6,3 +5,4 @@ Add Line
 Yegor Hello
 I try to change reove rep and synh with local 
 new branch line
+New line for gui 
